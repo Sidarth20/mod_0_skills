@@ -1,0 +1,14 @@
+# Class: Lounge
+
+# Attributes
+server = (string)
+brand = (string)
+capacity = (integer)
+has_champagne = (boolean)
+drinks = (array)
+
+# Methods
+update_server = (modifies server name to "Jim")
+lower_capacity = (decreases capacity by 10)
+add_booze = (changes has_champagne to true)
+remove_drink = (removes 1 drink from drinks array)
