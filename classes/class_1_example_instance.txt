@@ -1,0 +1,13 @@
+# Instance: united_lounge
+
+# Attributes
+server = "George"
+capacity = 50
+has_champagne = false
+drinks = ["Coke", "Sprite", "Mountain Dew", "Gatorade"]
+
+# Methods
+update_server: (server = "Jim")
+lower_capacity: (capacity = 40)
+add_booze: (has_champagne = true)
+remove_drink: (drinks = ["Coke", "Sprite", "Mountain Dew"])
