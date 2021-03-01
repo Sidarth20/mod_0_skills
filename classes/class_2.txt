@@ -1,0 +1,13 @@
+# Class Restaurant
+
+# Attributes
+plates = (integer)
+silverware = (array)
+has_dessert = (boolean)
+entree = (string)
+
+# Methods
+remove_plates: (reduces number of plates by 5)
+add_cutlery: (adds 1 cutlery to silverware)
+spoil: (changes has_dessert to false)
+update_entree: (updates entree to wagyu beef)
