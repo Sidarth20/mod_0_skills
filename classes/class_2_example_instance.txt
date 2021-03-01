@@ -1,0 +1,13 @@
+# Instance: ruth_chris_restaurant
+
+# Attributes
+plates = 100
+silverware = ["fork", "spoon", "knife"]
+has_dessert = true
+entree = "cheeseburger"
+
+# Methods
+remove_plates: (plates = 95)
+add_cutlery: (silverware = ["fork", "spoon", "knife", "butter knife"])
+spoil: (has_dessert = false)
+update_entree: (entree = "wagyu beef")
