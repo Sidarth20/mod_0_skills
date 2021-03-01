@@ -1,0 +1,9 @@
+movie = "The Dark Knight"
+is_entertaining = true
+movie = "Inception"
+num_4 = 10
+num_6 = 20
+product = num_4 * num_6
+favorite_foods = ["pizza", "cookies", "chocolate"]
+favorite_foods.drop(1)
+puts movie.length
