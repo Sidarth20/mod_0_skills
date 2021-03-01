@@ -2,7 +2,6 @@
 
 # Attributes
 server = (string)
-brand = (string)
 capacity = (integer)
 has_champagne = (boolean)
 drinks = (array)
